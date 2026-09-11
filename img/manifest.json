@@ -1,0 +1,250 @@
+{
+  "projects": [
+    {
+      "slug": "proj-01-marble-spa-master-bath",
+      "title": "MARBLE SPA MASTER BATH",
+      "category": "Master Bathroom",
+      "city": "West Palm Beach, FL",
+      "photos": [
+        "proj-01-marble-spa-master-bath-01.jpg",
+        "proj-01-marble-spa-master-bath-02.jpg",
+        "proj-01-marble-spa-master-bath-03.jpg",
+        "proj-01-marble-spa-master-bath-04.jpg",
+        "proj-01-marble-spa-master-bath-05.jpg",
+        "proj-01-marble-spa-master-bath-06.jpg",
+        "proj-01-marble-spa-master-bath-07.jpg",
+        "proj-01-marble-spa-master-bath-08.jpg"
+      ],
+      "photoCount": 8
+    },
+    {
+      "slug": "proj-02-black-marble-kitchen",
+      "title": "BLACK MARBLE KITCHEN",
+      "category": "Kitchen Renovation",
+      "city": "Weston, FL",
+      "photos": [
+        "proj-02-black-marble-kitchen-01.jpg",
+        "proj-02-black-marble-kitchen-02.jpg",
+        "proj-02-black-marble-kitchen-03.jpg",
+        "proj-02-black-marble-kitchen-04.jpg",
+        "proj-02-black-marble-kitchen-05.jpg",
+        "proj-02-black-marble-kitchen-06.jpg",
+        "proj-02-black-marble-kitchen-07.jpg",
+        "proj-02-black-marble-kitchen-08.jpg",
+        "proj-02-black-marble-kitchen-09.jpg",
+        "proj-02-black-marble-kitchen-10.jpg"
+      ],
+      "photoCount": 10
+    },
+    {
+      "slug": "proj-03-calacatta-living-room",
+      "title": "CALACATTA MARBLE LIVING ROOM",
+      "category": "Living Room Renovation",
+      "city": "Parkland, FL",
+      "photos": [
+        "proj-03-calacatta-living-room-01.jpg",
+        "proj-03-calacatta-living-room-02.jpg",
+        "proj-03-calacatta-living-room-03.jpg",
+        "proj-03-calacatta-living-room-04.jpg",
+        "proj-03-calacatta-living-room-05.jpg"
+      ],
+      "photoCount": 5
+    },
+    {
+      "slug": "proj-04-luxury-commercial-bathroom",
+      "title": "LUXURY COMMERCIAL BATHROOM",
+      "category": "Commercial Renovation",
+      "city": "West Palm Beach, FL",
+      "photos": [
+        "proj-04-luxury-commercial-bathroom-01.jpg",
+        "proj-04-luxury-commercial-bathroom-02.jpg",
+        "proj-04-luxury-commercial-bathroom-03.jpg",
+        "proj-04-luxury-commercial-bathroom-04.jpg",
+        "proj-04-luxury-commercial-bathroom-05.jpg",
+        "proj-04-luxury-commercial-bathroom-06.jpg",
+        "proj-04-luxury-commercial-bathroom-07.jpg",
+        "proj-04-luxury-commercial-bathroom-08.jpg",
+        "proj-04-luxury-commercial-bathroom-09.jpg",
+        "proj-04-luxury-commercial-bathroom-10.jpg",
+        "proj-04-luxury-commercial-bathroom-11.jpg"
+      ],
+      "photoCount": 11
+    },
+    {
+      "slug": "proj-05-commercial-drywall-herringbone",
+      "title": "COMMERCIAL DRYWALL, PAINT & HERRINGBONE CARPET",
+      "category": "Commercial Renovation",
+      "city": "West Palm Beach, FL",
+      "photos": [
+        "proj-05-commercial-drywall-herringbone-01.jpg",
+        "proj-05-commercial-drywall-herringbone-02.jpg",
+        "proj-05-commercial-drywall-herringbone-03.jpg",
+        "proj-05-commercial-drywall-herringbone-04.jpg",
+        "proj-05-commercial-drywall-herringbone-05.jpg",
+        "proj-05-commercial-drywall-herringbone-06.jpg",
+        "proj-05-commercial-drywall-herringbone-07.jpg",
+        "proj-05-commercial-drywall-herringbone-08.jpg",
+        "proj-05-commercial-drywall-herringbone-09.jpg"
+      ],
+      "photoCount": 9
+    },
+    {
+      "slug": "proj-06-alina-kitchen",
+      "title": "ALINA BUILDING - LUXURY KITCHEN & CABINETRY",
+      "category": "Kitchen Renovation",
+      "city": "Boca Raton, FL",
+      "photos": [
+        "proj-06-alina-kitchen-01.jpg",
+        "proj-06-alina-kitchen-02.jpg",
+        "proj-06-alina-kitchen-03.jpg",
+        "proj-06-alina-kitchen-04.jpg",
+        "proj-06-alina-kitchen-05.jpg",
+        "proj-06-alina-kitchen-06.jpg",
+        "proj-06-alina-kitchen-07.jpg",
+        "proj-06-alina-kitchen-08.jpg",
+        "proj-06-alina-kitchen-09.jpg",
+        "proj-06-alina-kitchen-10.jpg",
+        "proj-06-alina-kitchen-11.jpg",
+        "proj-06-alina-kitchen-12.jpg",
+        "proj-06-alina-kitchen-13.jpg",
+        "proj-06-alina-kitchen-14.jpg",
+        "proj-06-alina-kitchen-15.jpg",
+        "proj-06-alina-kitchen-16.jpg",
+        "proj-06-alina-kitchen-17.jpg",
+        "proj-06-alina-kitchen-18.jpg",
+        "proj-06-alina-kitchen-19.jpg",
+        "proj-06-alina-kitchen-20.jpg",
+        "proj-06-alina-kitchen-21.jpg",
+        "proj-06-alina-kitchen-22.jpg",
+        "proj-06-alina-kitchen-23.jpg",
+        "proj-06-alina-kitchen-24.jpg"
+      ],
+      "photoCount": 24
+    },
+    {
+      "slug": "proj-07-pavers-pool-deck",
+      "title": "LUXURY PAVERS & POOL DECK",
+      "category": "Outdoor / Pavers",
+      "city": "Boca Raton, FL",
+      "photos": [
+        "proj-07-pavers-pool-deck-01.jpg",
+        "proj-07-pavers-pool-deck-02.jpg",
+        "proj-07-pavers-pool-deck-03.jpg",
+        "proj-07-pavers-pool-deck-04.jpg",
+        "proj-07-pavers-pool-deck-05.jpg",
+        "proj-07-pavers-pool-deck-06.jpg",
+        "proj-07-pavers-pool-deck-07.jpg",
+        "proj-07-pavers-pool-deck-08.jpg",
+        "proj-07-pavers-pool-deck-09.jpg",
+        "proj-07-pavers-pool-deck-10.jpg",
+        "proj-07-pavers-pool-deck-11.jpg"
+      ],
+      "photoCount": 11
+    },
+    {
+      "slug": "proj-08-custom-walk-in-closet",
+      "title": "CUSTOM WALK-IN CLOSET",
+      "category": "Custom Closet",
+      "city": "Boca Raton, FL",
+      "photos": [
+        "proj-08-custom-walk-in-closet-01.jpg",
+        "proj-08-custom-walk-in-closet-02.jpg",
+        "proj-08-custom-walk-in-closet-03.jpg",
+        "proj-08-custom-walk-in-closet-04.jpg",
+        "proj-08-custom-walk-in-closet-05.jpg",
+        "proj-08-custom-walk-in-closet-06.jpg"
+      ],
+      "photoCount": 6
+    },
+    {
+      "slug": "proj-09-grand-foyer",
+      "title": "GRAND FOYER - MARBLE FIREPLACE & FLOORING",
+      "category": "Full Home Renovation",
+      "city": "South Florida",
+      "photos": [
+        "proj-09-grand-foyer-01.jpg",
+        "proj-09-grand-foyer-02.jpg",
+        "proj-09-grand-foyer-03.jpg",
+        "proj-09-grand-foyer-04.jpg",
+        "proj-09-grand-foyer-05.jpg",
+        "proj-09-grand-foyer-06.jpg",
+        "proj-09-grand-foyer-07.jpg",
+        "proj-09-grand-foyer-08.jpg",
+        "proj-09-grand-foyer-09.jpg"
+      ],
+      "photoCount": 9
+    },
+    {
+      "slug": "proj-10-waterfront-exterior-stone",
+      "title": "WATERFRONT ESTATE - EXTERIOR STONE & DOCK TILE",
+      "category": "Exterior Tile & Stone",
+      "city": "Boca Raton, FL",
+      "photos": [
+        "proj-10-waterfront-exterior-stone-01.jpg",
+        "proj-10-waterfront-exterior-stone-02.jpg",
+        "proj-10-waterfront-exterior-stone-03.jpg",
+        "proj-10-waterfront-exterior-stone-04.jpg",
+        "proj-10-waterfront-exterior-stone-05.jpg",
+        "proj-10-waterfront-exterior-stone-06.jpg",
+        "proj-10-waterfront-exterior-stone-07.jpg",
+        "proj-10-waterfront-exterior-stone-08.jpg",
+        "proj-10-waterfront-exterior-stone-09.jpg",
+        "proj-10-waterfront-exterior-stone-10.jpg"
+      ],
+      "photoCount": 10
+    },
+    {
+      "slug": "proj-11-luxury-bathrooms-new-construction",
+      "title": "LUXURY BATHROOMS - NEW CONSTRUCTION",
+      "category": "Bathroom Renovation",
+      "city": "South Florida",
+      "photos": [
+        "proj-11-luxury-bathrooms-new-construction-01.jpg",
+        "proj-11-luxury-bathrooms-new-construction-02.jpg",
+        "proj-11-luxury-bathrooms-new-construction-03.jpg",
+        "proj-11-luxury-bathrooms-new-construction-04.jpg",
+        "proj-11-luxury-bathrooms-new-construction-05.jpg"
+      ],
+      "photoCount": 5
+    },
+    {
+      "slug": "proj-12-decorative-stair-tile",
+      "title": "DECORATIVE STAIR TILE TRANSFORMATION",
+      "category": "Tile Installation",
+      "city": "St. Petersburg, FL",
+      "photos": [
+        "proj-12-decorative-stair-tile-01.jpg",
+        "proj-12-decorative-stair-tile-02.jpg",
+        "proj-12-decorative-stair-tile-03.jpg",
+        "proj-12-decorative-stair-tile-04.jpg"
+      ],
+      "photoCount": 4
+    },
+    {
+      "slug": "proj-13-calacatta-commercial-buildout",
+      "title": "CALACATTA MARBLE COMMERCIAL BUILD-OUT",
+      "category": "Commercial Renovation",
+      "city": "South Florida",
+      "photos": [
+        "proj-13-calacatta-commercial-buildout-01.jpg",
+        "proj-13-calacatta-commercial-buildout-02.jpg",
+        "proj-13-calacatta-commercial-buildout-03.jpg"
+      ],
+      "photoCount": 3
+    },
+    {
+      "slug": "proj-14-waterfront-new-construction",
+      "title": "WATERFRONT NEW CONSTRUCTION - MARBLE & TILE",
+      "category": "New Construction",
+      "city": "South Florida",
+      "photos": [
+        "proj-14-waterfront-new-construction-01.jpg",
+        "proj-14-waterfront-new-construction-02.jpg",
+        "proj-14-waterfront-new-construction-03.jpg"
+      ],
+      "photoCount": 3
+    }
+  ],
+  "loose": [],
+  "failed": []
+}
